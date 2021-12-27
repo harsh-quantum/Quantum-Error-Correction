@@ -1,6 +1,8 @@
 # Quantum-Error-Correction
-## This Project is about the quantum error correction 
-We have divided the material to be covered as a part of this project into several notebooks
+
+
+## This Project is about Quantum Error Correction 
+We have divided the material to be covered as a part of this project into 4 notebooks
 
 
 # Mid-Term Deliverables Report
