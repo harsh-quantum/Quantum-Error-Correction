@@ -5,7 +5,7 @@
 We have divided the material to be covered as a part of this project into 4 notebooks
 
 
-# Notebook wse  Deliverables Report
+# Notebook wise  Deliverables Report
 Notebook1: We have given a run through of the basics of Quantum Computinhg for the uninitiated and then introduced the concept of Information, how is it relevant to the discussion of Quantum Error Correction, how QEC Codes are used for this purpose and what is to be expected from a good code. 
 
 
