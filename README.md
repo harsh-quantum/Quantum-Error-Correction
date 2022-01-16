@@ -13,5 +13,5 @@ Notebook2 : Covered the No Cloning Theorem in detail so to help the reader to ap
 
 Notebook3 : We implemented the shor 9 qubit code . Extensively talking about the the stablizers and how it will help in decoding processs. 
 
-Notebook4 : 5 qubit and 8 qubit code we covered . Quantum error not only done by gate based model but also also with other methods for example Measurement based quantum Computing. We give some light on this and try to cover some parts of it .
+Notebook4 : 5 qubit and 7 qubit code we covered . Quantum error not only done by gate based model but also also with other methods for example Measurement based quantum Computing. We give some light on this and try to cover some parts of it .
 
